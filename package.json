@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/hrganga/nodejs-app-actions/issues"
   },
+  "publishConfig": {
+    "@hrganga:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/hrganga/nodejs-app-actions#readme"
 }
