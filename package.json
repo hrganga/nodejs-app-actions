@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-app-actions",
+  "version": "1.0.0",
+  "description": "nodejs app github actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hrganga/nodejs-app-actions.git"
+  },
+  "keywords": [
+    "nodejs-app-actions"
+  ],
+  "author": "hrganga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hrganga/nodejs-app-actions/issues"
+  },
+  "homepage": "https://github.com/hrganga/nodejs-app-actions#readme"
+}
